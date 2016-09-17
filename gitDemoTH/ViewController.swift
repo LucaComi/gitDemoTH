@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     
     
     let gitTest: String = "this is a xCode test"
+    let gitTestFromWebbe: String = "Update from the web"
 
     override func viewDidLoad() {
         super.viewDidLoad()
