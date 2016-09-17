@@ -9,6 +9,9 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    
+    let gitTest: String = "this is a xCode test"
 
     override func viewDidLoad() {
         super.viewDidLoad()
